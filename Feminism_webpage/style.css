@@ -1,4 +1,4 @@
-/* General Styles */
+
 * {
     margin: 0;
     padding: 0;
@@ -12,7 +12,7 @@ body {
     line-height: 1.6;
 }
 
-/* Header */
+
 header {
     text-align: center;
     padding: 20px;
@@ -29,7 +29,7 @@ header p {
     font-size: 1.2rem;
 }
 
-/* Navigation */
+
 nav ul {
     display: flex;
     justify-content: center;
@@ -52,7 +52,7 @@ nav ul li a:hover {
     color: #ffd1e3;
 }
 
-/* About Section */
+
 #about {
     padding: 30px;
     text-align: center;
@@ -63,7 +63,7 @@ nav ul li a:hover {
     margin-bottom: 10px;
 }
 
-/* Gallery Section */
+
 #gallery {
     padding: 30px;
     text-align: center;
@@ -87,7 +87,7 @@ nav ul li a:hover {
     transform: scale(1.05);
 }
 
-/* Quotes Section */
+
 #quotes {
     padding: 30px;
     text-align: center;
@@ -106,7 +106,7 @@ blockquote {
     font-style: italic;
 }
 
-/* Footer */
+
 footer {
     background-color: #e75480;
     color: white;
